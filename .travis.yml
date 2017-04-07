@@ -2,4 +2,4 @@ language: python
 python: 
     - "2.7"
 install: true
-script: pytest
+script: python helloWorld.py
